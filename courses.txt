@@ -1,0 +1,10 @@
+Course Name,Course Code,Faculty Name
+Data Structures,CS3401,Sir One
+Web Technology,CS3403,Sir Two
+Graph Theory,CS3402,Sir Three
+Enviromental Sciences,CE3401,Sir Four
+Digital Electronics,EC3401,Sir Five
+Basic Aerospace Engineering,AC3401,Sir Six
+Machine Learning,CS5000,Sir Seven
+Artificial Intelligence,CS6000,Sir Eight
+Ethics and Humanity,HS3401,Sir Nine
